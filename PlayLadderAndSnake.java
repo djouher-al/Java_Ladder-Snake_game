@@ -1,21 +1,3 @@
-
-// -----------------------------------------------------
-//Assignment # 1
-// Written by :  Lachezara Lazarova (40211033) and Djouher Alili (40129927) 
-// Description : 
-// This program will allow 2 to 4 users to play Ladder and Snake. 
-// Users have 3 attempts to input the correct number of players, or the game will terminate. 
-// A first flip will happen in order to decide the order. 
-// The player with the biggest dice value will start first and so on.
-// As the game progresses, the first player to achieve the 100th square wins. 
-// -----------------------------------------------------
-
-/** importing scanner */
-/**
-* @author Djouher Alili
-* @authorLachezara Lazarova
-*
-**/
 import java.util.Scanner;
 
 /** creating a class named PlayLadderAndSnake */
